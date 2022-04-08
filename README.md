@@ -1,5 +1,4 @@
-###  Hey 👋 I'm Jan, 
-a first year computer science student at University of Gdańsk and this is where I will store my future ✨projects✨
+###  Hey 👋 I'm Jan
 
 
 
