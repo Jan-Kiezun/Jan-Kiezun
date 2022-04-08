@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Hey 👋 I'm Jan, 
+a first year computer science student at University of Gdańsk and this is where I will store my future ✨projects✨
+
+
 
 <!--
 **Jan-Kiezun/Jan-Kiezun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
