@@ -1,5 +1,23 @@
+---
 ###  Hey 👋 I'm Jan
 
+I'm a 1st year CS student at University of Gdańsk. I aim to become a full stack developer.
+
+---
+##### - What I'm currently learning? 🌱
+
+`Right now I'm focusing on CSS, JS, React and React Native.`
+
+##### - What I plan for the future?🤔
+`I want to start a blog 💬 to share my progress and what I work on with other people.`
+
+##### - What are my interests besides coding?⚡
+`Playing piano and video games`
+
+<br/>
+
+###### Ways to reach me:
+📫jan.kiezun@outlook.com
 
 
 <!--
