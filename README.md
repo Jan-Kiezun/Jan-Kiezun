@@ -16,8 +16,9 @@ I'm a 1st year CS student at University of Gdańsk. I aim to become a full stack
 
 <br/>
 
-###### Ways to reach me:
-📫jan.kiezun@outlook.com
+###### Links:
+- 📫jan.kiezun@outlook.com
+- 🔭[My Gitlab](https://www.gitlab.com/jan_kiezun)
 
 
 <!--
