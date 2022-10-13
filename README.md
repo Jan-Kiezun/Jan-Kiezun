@@ -1,7 +1,7 @@
 ---
 ###  Hey 👋 I'm Jan
 
-I'm a 1st year CS student at University of Gdańsk. I currently aim to become a full stack developer.
+I'm a 2st year CS student at University of Gdańsk. I currently aim to become a full stack developer.
 
 ---
 ##### - What I'm currently learning? 🌱
@@ -11,10 +11,10 @@ I'm a 1st year CS student at University of Gdańsk. I currently aim to become a 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
 
-`Lately, I've also taken interest in AI, so I plan on making some models during summer.`
+`Lately, I've also taken interest in AI.`
 
 ##### - What are my interests besides coding?⚡
-`Playing piano and video games`
+`Playing piano and self care`
 
 <br/>
 
