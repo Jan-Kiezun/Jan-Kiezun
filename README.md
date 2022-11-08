@@ -6,7 +6,7 @@ I'm a 2st year CS student at University of Gdańsk. I currently aim to become a 
 ---
 ##### - What I'm currently learning? 🌱
 
-`Right now I'm focusing on CSS, JS and React Native.`
+`Right now I'm focusing on NodeJS and React.`
 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
