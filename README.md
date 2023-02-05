@@ -14,7 +14,7 @@ I'm a 2st year CS student at University of Gdańsk. I currently aim to become a 
 `Lately, I've also taken interest in AI.`
 
 ##### - What are my interests besides coding?⚡
-`Playing piano and self care`
+`Playing guitar and self care`
 
 <br/>
 
