@@ -22,9 +22,7 @@ I'm a 2nd year CS student at University of Gdańsk. I currently aim to become a 
 - 📫jan.kiezun@outlook.com
 - 🔭[My Gitlab](https://www.gitlab.com/jan_kiezun)
 
-<br/>
-
-Views : <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=flat" alt="Jan-Kiezun" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=flat" alt="Jan-Kiezun" /> </p>
 <!--
 **Jan-Kiezun/Jan-Kiezun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
