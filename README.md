@@ -6,12 +6,12 @@ I'm a 2nd year CS student at University of Gdańsk. I currently aim to become a 
 ---
 ##### - What I'm currently learning? 🌱
 
-`Right now I'm focusing on NodeJS and React.`
+`Right now I'm focusing on NodeJS, React and Typescript.`
 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
 
-`Lately, I've also taken interest in AI.`
+`I've also taken interest in many forms of AI usages. Currently playing around with them in my personal projects. :))`
 
 ##### - What are my interests besides coding?⚡
 `Playing guitar and self care`
@@ -22,7 +22,7 @@ I'm a 2nd year CS student at University of Gdańsk. I currently aim to become a 
 - 📫jan.kiezun@outlook.com
 - 🔭[My Gitlab](https://www.gitlab.com/jan_kiezun)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=flat" alt="Jan-Kiezun" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=flat" alt="Jan-Kiezun" /> </p>
 <!--
 **Jan-Kiezun/Jan-Kiezun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
