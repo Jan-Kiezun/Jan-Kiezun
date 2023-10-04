@@ -21,7 +21,6 @@ I'm a 2nd year CS student at University of Gdańsk. I currently aim to become a 
 
 ###### Links:
 - 📫jan.kiezun@outlook.com
-- 🔭[My Gitlab](https://www.gitlab.com/jan_kiezun)
 <!--
 **Jan-Kiezun/Jan-Kiezun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
