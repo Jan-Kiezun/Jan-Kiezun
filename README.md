@@ -1,7 +1,7 @@
 ---
 ###  Hey 👋 I'm Jan
 
-I'm a 2nd year CS student at University of Gdańsk. I currently aim to become a full stack developer.
+I'm a 3rd year CS student at University of Gdańsk. I currently aim to become a full stack developer.
 
 ---
 ##### - What I'm currently learning? 🌱
