@@ -11,7 +11,7 @@ I'm a 3rd year CS student at University of Gdańsk. I currently aim to become a 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
 
-`I've also taken interest in many forms of AI usages. Currently playing around with them in my personal projects. :))`
+`I've also taken interest in many forms of AI models. Currently playing around with them in my local projects. :))`
 
 ##### - What are my interests besides coding?⚡
 `Playing guitar and self care`
