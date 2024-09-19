@@ -1,20 +1,20 @@
 ---
 ###  Hey 👋 I'm Jan
 
-I'm a 3rd year CS student at University of Gdańsk. I currently aim to become a full stack developer.
+I'm a 3rd year CS student at University of Gdańsk. I currently aim to become a full stack developer and a data engineer.
 
 ---
 ##### - What I'm currently learning? 🌱
 
-`Right now I'm focusing on NodeJS, React and Typescript.`
+`Right now I'm focusing on React, Typescript and Python.`
 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
 
-`I've also taken interest in many forms of AI models. Currently playing around with them in my local projects. :))`
+`I've also taken interest in many usages of AI text models. Currently playing around with them in my local projects. :))`
 
 ##### - What are my interests besides coding?⚡
-`Playing guitar and self care`
+`Playing guitar, piano and self care`
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=for-the-badge" alt="Jan-Kiezun" /> </p>
