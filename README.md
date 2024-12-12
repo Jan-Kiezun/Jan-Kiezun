@@ -1,12 +1,12 @@
 ---
 ###  Hey 👋 I'm Jan
 
-I'm a 3rd year CS student at University of Gdańsk. I currently aim to become a full stack developer and a data engineer.
+I'm a recent compsci graduate and a junior data engineer.
 
 ---
 ##### - What I'm currently learning? 🌱
 
-`Right now I'm focusing on React, Typescript and Python.`
+`Right now I'm focusing on Python, Typescript and React.`
 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
