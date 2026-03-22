@@ -6,15 +6,10 @@ I'm a recent compsci graduate and a junior data engineer.
 ---
 ##### - What I'm currently learning? 🌱
 
-`Right now I'm focusing on Python, Typescript and React.`
+`Right now I'm putting my focus around Data Processing tech like Pyspark or kafka.`
 
 ##### - What I plan for the future?🤔
 `I want to start a blog 💬 to share my progress and what I work on with other people.`
-
-`I've also taken interest in many usages of AI text models. Currently playing around with them in my local projects. :))`
-
-##### - What are my interests besides coding?⚡
-`Playing guitar, piano and self care`
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=for-the-badge" alt="Jan-Kiezun" /> </p>
