@@ -1,21 +1,22 @@
 ---
 ###  Hey 👋 I'm Jan
 
-I'm a recent compsci graduate and a junior data engineer.
+I'm a recent compsci graduate and a data engineer.
 
 ---
-##### - What I'm currently learning? 🌱
+##### - What I'm currently learning?
 
-`Right now I'm putting my focus around Data Processing tech like Pyspark or kafka.`
+`I am interested in a bit of everything. Lately I've been focusing on rf signal processing, data engineering and general data/ml topics.`
 
-##### - What I plan for the future?🤔
-`I want to start a blog 💬 to share my progress and what I work on with other people.`
+##### - What I plan for the future?
+`I plan to start a blog soon to share my progress and what I work on with other people.`
 
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jan-Kiezun&label=Profile%20views&color=ce9927&style=for-the-badge" alt="Jan-Kiezun" /> </p>
 
 ###### Links:
-- 📫jan.kiezun@outlook.com
+- email: jan.kiezun@outlook.com
+- blog : TBA
+
 <!--
 **Jan-Kiezun/Jan-Kiezun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
